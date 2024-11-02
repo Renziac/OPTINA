@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "YourAppName",
+    "slug": "your-app-slug",
+    "ios": {
+      "bundleIdentifier": "com.are.OPTINA",
+      "config": {
+        "googleServicesFile": "./config/GoogleService-Info.plist"
+      }
+    }
+  }
+}
